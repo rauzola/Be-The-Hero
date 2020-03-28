@@ -37,7 +37,7 @@ Obrigado à todos os envolvidos!
 
 Este projeto foi desenvolvido na [OmniStack Week of Rocketseat] (https://www.youtube.com/rocketseat) ao longo de uma semana usando Node.js, ReactJS e React Native para criar um aplicativo completo. 
 
-////
+
 ## 👁 Visualização
 
 <div align = "center"> 
