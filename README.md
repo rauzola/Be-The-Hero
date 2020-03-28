@@ -17,3 +17,60 @@ Obrigado à todos os envolvidos!
 
 <p> Isso podera demorar um pouco </p>
 <h3> Depois de pronto basta rodar o comando:  yarn dev</h3>
+
+
+
+## 🚀 Introdução
+
+Primeiro de tudo você precisa ter `node` e ` yarn` (ou `npm` ) instalado em sua máquina.
+
+_Se você decidir usar o npm, não esqueça de excluir yarn.lock nas pastas_
+O que outras pessoas estão dizendo
+
+Então você pode clonar o repositório.
+
+O que outras pessoas estão dizendo
+
+`git clone https: // github.com / azagatti / be-the-hero`
+
+O que outras pessoas estão dizendo
+
+Primeiro, inicie o back-end do aplicativo.
+
+O que outras pessoas estão dizendo
+
+1. `cd back-end`
+
+2. `yarn` ou ` install` npm
+
+3. `fios start` ou ` npm start`
+
+O que outras pessoas estão dizendo
+
+Agora iniciando o aplicativo da web.
+
+O que outras pessoas estão dizendo
+
+1. `cd frontend`
+
+2. `yarn` ou ` install` npm
+
+3. `fios start` ou ` npm start`
+
+O que outras pessoas estão dizendo
+
+Iniciando o aplicativo com a Expo.
+
+O que outras pessoas estão dizendo
+
+1. `cd mobile`
+
+2. `yarn` ou ` install` npm
+
+3. `fios start` ou ` npm start`
+
+4. Pressione `Executar no dispositivo / emulador Android` ou 'Executar no simulador iOS`
+
+5. Outra opção é instalar o Expo no seu telefone e digitalizar o QRCode.
+
+O que outras pessoas estão dizendo
