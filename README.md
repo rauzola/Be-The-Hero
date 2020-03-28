@@ -17,7 +17,7 @@ Obrigado à todos os envolvidos!
 </h1>
 
 <h3 align="center">
-  Be the hero of an NGO and help with a incident.
+  Seja o herói de uma ONG e ajude com um incidente.
 </h3>
 
 
