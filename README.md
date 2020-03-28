@@ -67,7 +67,6 @@ O que outras pessoas estão dizendo
 
 Então você pode clonar o repositório.
 
-O que outras pessoas estão dizendo
 
 `https://github.com/rauzola/Be-The-Hero.git`
 
