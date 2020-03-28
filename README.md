@@ -74,7 +74,8 @@ Primeiro, inicie o back-end do aplicativo.
 
 1. `cd back-end`
 
-Pra intalar as dependecias
+Pra intalar as dependecias.
+
 2. yarn `yarn install` ou `npm install` npm
 
 
@@ -88,7 +89,8 @@ Iniciando o aplicativo da web(Front-end).
 1. `cd frontend`
 
 
-Pra intalar as dependecias
+Pra intalar as dependecias.
+
 2. `yarn install` e `npm install` 
 
 3. `yarn start` ou ` npm start`
@@ -99,7 +101,8 @@ Iniciando o aplicativo com a Expo.
 
 1. `cd mobile`
 
-Pra intalar as dependecias
+Pra intalar as dependecias.
+
 2. `yarn install` e `npm install` 
 
 3. `yarn start` ou ` npm start`
