@@ -9,3 +9,11 @@ Como todo Dev, tive problemas durante o processo, tentando achar causas de erros
 Obrigado à todos os envolvidos!
 
 <h1>Para iniciar o Back-end </h1>
+
+<h3> Para instalar as dependencias  </h3>
+
+<p>Digitar no terminal o comando: yarn install </p>
+<p> E o comando: npm i</p>
+
+<p> Isso podera demorar um pouco </p>
+<h3> Depois de pronto basta rodar o comando:  yarn dev</h3>
